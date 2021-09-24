@@ -1,0 +1,1 @@
+nohup cellranger count --id=Number1 --transcriptome=/data/tmp/Mahdi/tools/cellranger/refdata-cellranger-mm10-3.0.0 --libraries=/data/tmp/Dovydas/Single_Cell_RNAseq/2020_02_05_YvO_Single_Cell/libraries.csv --feature-ref=/data/tmp/Dovydas/Single_Cell_RNAseq/2020_02_05_YvO_Single_Cell/Hashtag_reference.csv --localcores=20 --chemistry=SC3Pv3 &

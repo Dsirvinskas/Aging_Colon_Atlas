@@ -1,0 +1,1 @@
+nohup cellranger mkfastq --run=/data/tmp/Dovydas/Single_Cell_RNAseq/2020_02_05_YvO_Single_Cell/200225_NB501242_0184_AHYM22BGXC/ --csv=/data/tmp/Dovydas/Single_Cell_RNAseq/2020_02_05_YvO_Single_Cell/Number2_sample.csv --qc &

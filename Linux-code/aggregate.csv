@@ -1,0 +1,4 @@
+library_id,molecule_h5
+Sample1,/data/tmp/Dovydas/Single_Cell_RNAseq/2020_02_05_YvO_Single_Cell/Number1_new/outs/molecule_info.h5
+Sample2,/data/tmp/Dovydas/Single_Cell_RNAseq/2020_02_05_YvO_Single_Cell/Number2_new/outs/molecule_info.h5
+Sample3,/data/tmp/Dovydas/Single_Cell_RNAseq/2020_02_05_YvO_Single_Cell/Number3_new/outs/molecule_info.h5
